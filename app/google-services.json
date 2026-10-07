@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968132664089",
+    "project_id": "prova-mobile-b787c",
+    "storage_bucket": "prova-mobile-b787c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968132664089:android:3320b8e7f1834fc6cb8388",
+        "android_client_info": {
+          "package_name": "com.aula.playlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_wW563g6nk2_ZRqNKY-bgqtcRDXNb788"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
